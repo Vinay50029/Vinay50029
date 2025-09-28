@@ -1,10 +1,13 @@
-👋 Hi, I’m @Vinay50029
-- 👋 Hi, I’m Gattu Vinay
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning in CMR TECHNICAL CAMPUS 
-
 <h1 align="center">Hi 👋, I'm Vinay Kumar Gattu</h1>
-<h3 align="center">Interested in coding</h3>
+<h3 align="center">Student | Passionate Learner | Exploring Web Dev, Machine Learning </h3>
+
+
+I’m a student at **CMR Technical Campus**
+- 👀 Interested in **Web Development, AI/ML, and Problem Solving**
+- 🌱 Currently learning **C++, Data Structures & Algorithms, and Machine Learning**
+- 💡 Passionate about building **useful projects** .
+- 🎯 Goal: To become a **Skilled Software Developer** 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
