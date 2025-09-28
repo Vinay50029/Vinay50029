@@ -3,16 +3,19 @@
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning in CMR TECHNICAL CAMPUS 
 
+<h1 align="center">Hi 👋, I'm Vinay Kumar Gattu</h1>
+<h3 align="center">Interested in coding</h3>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vinay-kumar-254420290/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vinay-kumar-254420290/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100088267993561" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100088267993561" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/v_i_n_a_y_k_u_m_a_r_2_9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/v_i_n_a_y_k_u_m_a_r_2_9/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/vinaygattu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/vinaygattu" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/vinaygattu005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/vinaygattu005" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/vinay005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/vinay005" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/vinay2905/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/vinay2905/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/vinaygattu005/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/vinaygattu005/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vinay-kumar-254420290" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinay-kumar-254420290" height="30" width="40" /></a>
+<a href="https://fb.com/100088267993561" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100088267993561" height="30" width="40" /></a>
+<a href="https://instagram.com/v_i_n_a_y_k_u_m_a_r_2_9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="v_i_n_a_y_k_u_m_a_r_2_9" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/vinaygattu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vinaygattu" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/vinaygattu005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vinaygattu005" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/vinay005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="vinay005" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/vinay2905" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vinay2905" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/vinaygattu005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vinaygattu005" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,4 +25,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinay50029&show_icons=true&locale=en" alt="vinay50029" /></p>
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinay50029&" alt="vinay50029" /></p> -->
