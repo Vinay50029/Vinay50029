@@ -6,7 +6,8 @@ I’m a student at **CMR Technical Campus**
 - 👀 Interested in **Web Development, AI/ML, and Problem Solving**
 - 🌱 Currently learning **C++, Data Structures & Algorithms, and Machine Learning**
 - 💡 Passionate about building **useful projects** .
-- 🎯 Goal: To become a **Skilled Software Developer** 
+- 🎯 Goal: To become a **Skilled Software Developer**
+- 📫 How to reach me vinaygattu005@gmail.com
 
 
 <h3 align="left">Connect with me:</h3>
