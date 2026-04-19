@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm Vinay Kumar Gattu</h1>
-<h3 align="center">Student | Passionate Learner | Exploring Web Dev, Machine Learning </h3>
+<h3 align="center">Student | Passionate Learner | Exploring Web Dev, Machine Learning</h3>
 
+<p>
+I’m a student at <b>CMR Technical Campus</b>
+</p>
 
-I’m a student at **CMR Technical Campus**
-- 👀 Interested in **Web Development, AI/ML, and Problem Solving**
-- 🌱 Currently learning **C++, Data Structures & Algorithms, and Machine Learning**
-- 💡 Passionate about building **useful projects** .
-- 🎯 Goal: To become a **Skilled Software Developer**
-- 📫 How to reach me vinaygattu005@gmail.com
+<ul>
+<li>👀 Interested in <b>Web Development, AI/ML, and Problem Solving</b></li>
+<li>🌱 Currently learning <b>C++, Data Structures & Algorithms, Machine Learning</b></li>
+<li>💡 Passionate about building <b>useful projects</b></li>
+<li>🎯 Goal: Skilled Software Developer</li>
+<li>📫 Contact: vinaygattu005@gmail.com</li>
+</ul>
 
 
 <h3 align="left">Connect with me:</h3>
