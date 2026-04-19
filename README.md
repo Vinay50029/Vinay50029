@@ -2,12 +2,9 @@
 <h3 align="center">Student | Web Developer | Machine Learning Enthusiast</h3>
 
 <p align="center">
-  <a href="mailto:vinaygattu005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-vinaygattu005%40gmail.com-red?style=flat&logo=gmail">
-  </a>
+  <a href="mailto:vinaygattu005@gmail.com">vinaygattu005@gmail.com</a>
 </p>
 
----
 ### 👨‍💻 About Me
 - 🎓 Student at **CMR Technical Campus**
 - 👀 Interested in **Web Development, AI/ML, Problem Solving**
@@ -17,27 +14,12 @@
 
 ### 🌐 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/vinay-kumar-254420290" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-<a href="https://instagram.com/v_i_n_a_y_k_u_m_a_r_2_9" target="blank">
-<img src="https://skillicons.dev/icons?i=instagram" height="40" />
-</a>
-<a href="https://www.codechef.com/users/vinaygattu" target="blank">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" height="40"/>
-</a>
-<a href="https://www.hackerrank.com/vinaygattu005" target="blank">
-<img src="https://skillicons.dev/icons?i=hackerrank" height="40"/>
-</a>
-<a href="https://codeforces.com/profile/vinay005" target="blank">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg" height="40"/>
-</a>
-<a href="https://www.leetcode.com/vinay2905" target="blank">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="40"/>
-</a>
-<a href="https://auth.geeksforgeeks.org/user/vinaygattu005" target="blank">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/geeksforgeeks.svg" height="40"/>
-</a>
+  <a href="https://linkedin.com/in/vinay-kumar-254420290"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://instagram.com/v_i_n_a_y_k_u_m_a_r_2_9"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
+  <a href="https://www.codechef.com/users/vinaygattu"><img src="https://skillicons.dev/icons?i=codechef" height="40"/></a>
+  <a href="https://www.hackerrank.com/vinaygattu005"><img src="https://skillicons.dev/icons?i=hackerrank" height="40"/></a>
+  <a href="https://codeforces.com/profile/vinay005"><img src="https://skillicons.dev/icons?i=codeforces" height="40"/></a>
+  <a href="https://www.leetcode.com/vinay2905"><img src="https://skillicons.dev/icons?i=leetcode" height="40"/></a>
 </p>
 
 ### 🛠️ Languages & Tools
