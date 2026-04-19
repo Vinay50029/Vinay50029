@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vinay Kumar Gattu</h1>
-<h3 align="center">Student | Web Developer | Machine Learning Enthusiast</h3>
-
+<h2 align="center">Hi 👋, I'm Vinay Kumar Gattu</h2>
+<h4 align="center">Student | Web Developer | Machine Learning Enthusiast</h4>
 <p align="center">
   <a href="mailto:vinaygattu005@gmail.com">vinaygattu005@gmail.com</a>
 </p>
