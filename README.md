@@ -8,15 +8,12 @@
 </p>
 
 ---
-
 ### 👨‍💻 About Me
 - 🎓 Student at **CMR Technical Campus**
 - 👀 Interested in **Web Development, AI/ML, Problem Solving**
 - 🌱 Currently learning **C++, DSA, Machine Learning**
 - 💡 Love building **real-world projects**
 - 🎯 Goal: **Software Developer**
-
----
 
 ### 🌐 Connect with me
 <p align="left">
@@ -43,24 +40,13 @@
 </a>
 </p>
 
----
-
 ### 🛠️ Languages & Tools
 <p>
 <img src="https://skillicons.dev/icons?i=bootstrap,cpp,css,django,firebase,flask,git,html,java,js,mysql,python,react" />
 </p>
 
----
-
 ### 📊 GitHub Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Vinay50029&show_icons=true&theme=tokyonight" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinay50029&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 🔥 Streak Stats
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=Vinay50029&theme=tokyonight" />
 </p>
