@@ -28,6 +28,6 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vinay50029&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vinay50029&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vinay50029&theme=tokyonight" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vinay50029&theme=tokyonight" height="180"/>
 </p>
